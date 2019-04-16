@@ -1,7 +1,7 @@
 # MailSender
 Send personalized mass emails in Gmail
 
-# 1. About
+### 1. About
 
 This application was created for my brother who requested it - and I 
 thought it could be useful to learn a little about WPF applications,
@@ -20,38 +20,38 @@ use each recipients name.
 
 **The outcome:**
 
+- Mail 1:
 ![](https://github.com/christianshub/MailSender/blob/master/Billeder/Mail1.jpg)
+
+- Mail 2:
 ![](https://github.com/christianshub/MailSender/blob/master/Billeder/Mail2.jpg)
 
+- The excel file
+![](https://github.com/christianshub/MailSender/blob/master/Billeder/Excel.jpg)
 
-# 2. REQUIREMENTS:   
+### 2. REQUIREMENTS:   
 
+- 2.1. Create an excel file
+  + 2.1.1. Fill column 1 (top-down) with names (e.g.: Christian)
+  + 2.1.2. Fill column 2 (top-down) with the corrosponding mails (e.g.: Christian@yahoo.com)
 
-    2.1. Create an excel file
-	    2.1.1. Fill column 1 (top-down) with names (e.g.: Christian)
-		2.1.2. Fill column 2 (top-down) with the corrosponding mails (e.g.: Christian@yahoo.com)
+- 2.2. Allow less secure apps:
+  + 2.2.1. Sign in to your Google Admin console. ...
+  + 2.2.2. Click Security > Basic settings. ...
+  + 2.2.3. Under Less secure apps, select Go to settings for less secure apps.
+  + 2.2.4. In the subwindow, select the Allow users to manage their access to less secure apps radio button.
 
+### 3. INSTRUCTIONS:
 
-	2.2. Allow less secure apps:
-		2.2.1. Sign in to your Google Admin console. ...
-		2.2.1. Click Security > Basic settings. ...
-		2.2.1. Under Less secure apps, select Go to settings for less secure apps.
-		2.2.1. In the subwindow, select the Allow users to manage their access to less secure apps radio button.
+- 3.1. Open the program
+- 3.2. Login
+- 3.3. Input subject
+- 3.4. Input your text (content)
+- 3.5. Attach the created excel file by pressing "Open..."
 
-    3.3 G-mail only as of April 2019
+### 4. TODO:
 
-# 3. INSTRUCTIONS:
-
-	3.1. Open the program
-	3.2. Login
-	3.3. Input subject
-	3.4. Input your text (content)
-	3.5. Attach the created excel file by pressing "Open..."
-
-
-# 4. TODO:
-
-	4.1. Add login-screen
-	4.2. Allow other mail clients
-  4.3. Choose between danish and english (currently only in danish)
+- 4.1. Add login-screen
+- 4.2. Allow other mail clients
+- 4.3. Choose between danish and english (currently only in danish)
     
