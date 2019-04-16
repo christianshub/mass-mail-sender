@@ -1,5 +1,5 @@
 # MailSender
-Send personalized mass emails in Gmail (Windows)
+Send personalized mass emails through gmail (Windows)
 
 ### 1. About
 
