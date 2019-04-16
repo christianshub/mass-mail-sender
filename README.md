@@ -1,6 +1,6 @@
 # MailSender
 Send personalized mass emails in Gmail
 
-# For C# notes, click the 'Wiki' tab!
+# The app
 
-<a href="https://github.com/christianshub/MailSender/blob/master/Billeder/App.jpg" title="source: github" /></a>
+<a href="https://github.com/christianshub/MailSender/blob/master/Billeder/App.jpg" title="source: github"/></a>
