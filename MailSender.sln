@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailSender", "MailSender\MailSender.csproj", "{89C0D0D6-C637-4EC1-BBBC-974C9626B2EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C0D0D6-C637-4EC1-BBBC-974C9626B2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C0D0D6-C637-4EC1-BBBC-974C9626B2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C0D0D6-C637-4EC1-BBBC-974C9626B2EC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{89C0D0D6-C637-4EC1-BBBC-974C9626B2EC}.Debug|x86.Build.0 = Debug|Any CPU
+		{89C0D0D6-C637-4EC1-BBBC-974C9626B2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C0D0D6-C637-4EC1-BBBC-974C9626B2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89C0D0D6-C637-4EC1-BBBC-974C9626B2EC}.Release|x86.ActiveCfg = Release|Any CPU
+		{89C0D0D6-C637-4EC1-BBBC-974C9626B2EC}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72E4261D-E3D9-406F-9BF4-07E0E8168CA6}
+	EndGlobalSection
+EndGlobal
