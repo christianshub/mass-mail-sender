@@ -7,7 +7,7 @@ This application was created for my brother who requested it - and I
 thought it could be useful to learn a little about WPF applications,
 so here's the outcome.
 
-![](https://github.com/christianshub/MailSender/blob/master/Billeder/App.jpg)
+![](https://github.com/christianshub/MailSender/blob/master/Billeder/App.jpg =250x250)
 
 'Mail sender' sends multiple e-mails using an excel-file made by the
 user. The excel-file should include one column with names (column 1),
@@ -16,6 +16,7 @@ This way, the user will be able to send multiple e-mails with the same
 content, but with different names in the beginning of the content.
 
 - The excel file
+
 ![](https://github.com/christianshub/MailSender/blob/master/Billeder/Excel.jpg)
 
 - Mail 1:
