@@ -7,7 +7,8 @@ This application was created for my brother who requested it - and I
 thought it could be useful to learn a little about WPF applications,
 so here's the outcome.
 
-![](https://github.com/christianshub/MailSender/blob/master/Billeder/App.jpg | width=100)
+<img src="https://github.com/christianshub/MailSender/blob/master/Billeder/App.jpg" width="48">
+
 
 'Mail sender' sends multiple e-mails using an excel-file made by the
 user. The excel-file should include one column with names (column 1),
