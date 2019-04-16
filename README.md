@@ -16,14 +16,16 @@ and one column with corrosponding e-mails (column 2).
 This way, the user will be able to send multiple e-mails with the same
 content, but with different names in the beginning of the content.
 
-- The excel file
+- The excel file:
 
 ![](https://github.com/christianshub/MailSender/blob/master/Billeder/Excel.jpg)
 
 - Mail 1:
+
 ![](https://github.com/christianshub/MailSender/blob/master/Billeder/Mail1.jpg)
 
 - Mail 2:
+
 ![](https://github.com/christianshub/MailSender/blob/master/Billeder/Mail2.jpg)
 
 
