@@ -1,6 +1,57 @@
 # MailSender
 Send personalized mass emails in Gmail
 
-# The app
+# 1. About
+
+This application was created for my brother who requested it - and I 
+thought it could be useful to learn a little about WPF applications,
+so here's the outcome.
 
 ![](https://github.com/christianshub/MailSender/blob/master/Billeder/App.jpg)
+
+'Mail sender' sends multiple e-mails using an excel-file made by the
+user. The excel-file should include one column with (column 1), and 
+one column with corrosponding e-mails (column 2). 
+This way, the user will be able to send multiple e-mails with the same
+content, but with different names in the beginning of the content.
+
+It's useful for writing to a group of people while still wanting to
+use each recipients name.
+
+**The outcome:**
+
+![](https://github.com/christianshub/MailSender/blob/master/Billeder/Mail1.jpg)
+![](https://github.com/christianshub/MailSender/blob/master/Billeder/Mail2.jpg)
+
+
+# 2. REQUIREMENTS:   
+
+
+    2.1. Create an excel file
+	    2.1.1. Fill column 1 (top-down) with names (e.g.: Christian)
+		2.1.2. Fill column 2 (top-down) with the corrosponding mails (e.g.: Christian@yahoo.com)
+
+
+	2.2. Allow less secure apps:
+		2.2.1. Sign in to your Google Admin console. ...
+		2.2.1. Click Security > Basic settings. ...
+		2.2.1. Under Less secure apps, select Go to settings for less secure apps.
+		2.2.1. In the subwindow, select the Allow users to manage their access to less secure apps radio button.
+
+    3.3 G-mail only as of April 2019
+
+# 3. INSTRUCTIONS:
+
+	3.1. Open the program
+	3.2. Login
+	3.3. Input subject
+	3.4. Input your text (content)
+	3.5. Attach the created excel file by pressing "Open..."
+
+
+# 4. TODO:
+
+	4.1. Add login-screen
+	4.2. Allow other mail clients
+  4.3. Choose between danish and english (currently only in danish)
+    
