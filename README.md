@@ -10,15 +10,13 @@ so here's the outcome.
 ![](https://github.com/christianshub/MailSender/blob/master/Billeder/App.jpg)
 
 'Mail sender' sends multiple e-mails using an excel-file made by the
-user. The excel-file should include one column with (column 1), and 
-one column with corrosponding e-mails (column 2). 
+user. The excel-file should include one column with names (column 1),
+and one column with corrosponding e-mails (column 2). 
 This way, the user will be able to send multiple e-mails with the same
 content, but with different names in the beginning of the content.
 
-It's useful for writing to a group of people while still wanting to
-use each recipients name.
-
-**The outcome:**
+- The excel file
+![](https://github.com/christianshub/MailSender/blob/master/Billeder/Excel.jpg)
 
 - Mail 1:
 ![](https://github.com/christianshub/MailSender/blob/master/Billeder/Mail1.jpg)
@@ -26,8 +24,6 @@ use each recipients name.
 - Mail 2:
 ![](https://github.com/christianshub/MailSender/blob/master/Billeder/Mail2.jpg)
 
-- The excel file
-![](https://github.com/christianshub/MailSender/blob/master/Billeder/Excel.jpg)
 
 ### 2. REQUIREMENTS:   
 
