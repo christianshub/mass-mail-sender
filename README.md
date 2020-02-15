@@ -3,9 +3,7 @@ Send personalized mass emails through gmail (Windows)
 
 ### 1. About
 
-This application was created for my brother who requested it - and I 
-thought it could be useful to learn a little about WPF applications,
-so here's the outcome.
+a WPF application written for a client.
 
 <img src="https://github.com/christianshub/MailSender/blob/master/Billeder/App.jpg" width="500">
 
