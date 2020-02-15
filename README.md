@@ -3,10 +3,7 @@ Send personalized mass emails through gmail (Windows)
 
 ### 1. About
 
-a WPF application written for a client.
-
 <img src="https://github.com/christianshub/MailSender/blob/master/Billeder/App.jpg" width="500">
-
 
 'Mail sender' sends multiple e-mails using an excel-file made by the
 user. The excel-file should include one column with names (column 1),
